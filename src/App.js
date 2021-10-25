@@ -10,6 +10,7 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <Message />
+        MESSAGE FROM APP.JS!
 
       </header>
       
