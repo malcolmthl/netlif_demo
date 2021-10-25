@@ -4,7 +4,7 @@ from starlette.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    'https://bcancer-fastapi.herokuapp.com'
+    'https://bcancer-fastapi.herokuapp.com' #'http://localhost:3000'
 ]
 
 app.add_middleware(
