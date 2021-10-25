@@ -37,7 +37,7 @@
     ]
   },
   
-  "proxy": "https://bcancer-fastapi.herokuapp.com/"
+  "proxy": "https://bcancer-fastapi.herokuapp.com"
   
 
 
