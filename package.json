@@ -38,7 +38,7 @@
   },
   
   "proxy": "https://bcancer-fastapi.herokuapp.com/"
-  // "proxy": "http://localhost:8000"
+  
 
 
 }
