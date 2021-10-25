@@ -10,7 +10,7 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <Message />
-        MESSAGE FROM APP.JS!
+        MESSAGE FROM APP.JS! HEROKU
 
       </header>
       
